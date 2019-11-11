@@ -9,3 +9,12 @@ examples/Triangle.java.junitResult
 examples/Triangle.java.optimised
 examples/Triangle.java.patched
 examples/Triangle.java.statements
+src/test/java/gin/Triangle.java.patched
+src/test/resources/ExampleTriangleProgram.java.patched
+*.optimised
+*.patched
+*.statements
+*.blocks
+classes/
+gin.iml
+examples/*.class
